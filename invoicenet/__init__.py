@@ -27,7 +27,7 @@ FIELD_TYPES = {
 
 FIELDS = dict()
 #test purpose
-FIELDS["invoice_number"] = FIELD_TYPES["general"]
+#FIELDS["invoice_number"] = FIELD_TYPES["general"]
 #FIELDS["vendor_name"] = FIELD_TYPES["general"]
 
 #FIELDS["invoice_date"] = FIELD_TYPES["date"]
